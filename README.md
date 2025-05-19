@@ -12,4 +12,3 @@ Este repositorio reúne ejercicios, proyectos pequeños y recursos que estoy uti
 
 - Python 3
 - Git y GitHub
-- Jupyter Notebooks
